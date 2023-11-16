@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-//exemplo 2
+//exemplo 2:
 #define N 30
 
 struct Pessoa
