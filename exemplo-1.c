@@ -2,10 +2,6 @@
 #include <stdlib.h>
 //exemplo 1
 
-void clearScreen() {
-system("clear");
-}
-
 //definindo a struct
 struct Ponto {
 	int x;
