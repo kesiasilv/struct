@@ -47,7 +47,7 @@ int main(){
 	
 	printf("digite um nome: \n");
 	//usando o scanf aprimorado
-	scanf("%[^\n]s", pes.nome);
+	scanf("%50[^\n]s", pes.nome);
 	
 	printf("\nresultados: \n");
 	printf("pes.idade: %d\n", pes.idade);
