@@ -15,8 +15,8 @@ typedef struct tipo_pessoa tipo_pessoa;
 
 int main(){
 	setlocale(LC_ALL, "portuguese");/*como estou usando a biblioteca locale.h 
-									quando for atribuir valores via teclado no peso (usuario)
-								    numero real precisa ser com ',' e nao ponto*/
+					quando for atribuir valores via teclado no peso (usuario)
+					numero real precisa ser com ',' e nao ponto*/
 	
 	//criando e inicializando
 	tipo_pessoa pes = {0, 0.0, "teste"};//ja atribui valores para iniciar
