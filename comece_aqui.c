@@ -29,7 +29,7 @@ int main(){
 	//modificando os valores dos campos
 	pes.idade = 10;
 	pes.peso = 99.99;
-	//como char esta em uma string nao pode atribuir com '=' e sim com o strcpy
+	//como char esta em um vetor string char nao pode atribuir com '=' e sim com o strcpy
 	strcpy(pes.nome, "Texto");
 	
 	printf("\nAlterando os valores dos campos via codigo: \n");
