@@ -22,7 +22,7 @@ int main(){
 	int i;
 	
 	for(i=0; i<TAM; i++){
-		printf("insira dados (%d)\n", i + 1);
+		printf("insira dados (%d)\n", i + 1);//quando peço para inserir os dados 'i + 1' quer dizer da pessoa 1(primeira). a soma é realizada porque a inicialização esta em 0; e assim por diante
 		puts("nome: ");
 		scanf("%50[^\n]s", &lista[i].nome);//como é um vetor ela precisa ser chamada desta forma!
 		fflush(stdin);
