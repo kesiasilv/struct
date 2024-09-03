@@ -23,4 +23,4 @@ Exemplo básico de definição e utilização de uma struct para armazenar e imp
 
 ## Contato
 
-Se deseja tirar dúvidas ou compartilhar conhecimento, entre em contato com [Késia](kesiasilvab6@gmail.com).
+Se deseja tirar dúvidas ou compartilhar conhecimento, entre em contato comigo [Késia](kesiasilvab6@gmail.com).
